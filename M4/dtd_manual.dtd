@@ -1,0 +1,9 @@
+
+<!DOCTYPE llenguatges [
+  <!ELEMENT llenguatges (llenguatge+)>
+  <!ELEMENT llenguatge (nom, descripció, exemple, datacreació)  >
+  <!ELEMENT nom (#PCDATA)>
+  <!ELEMENT descripció (#PCDATA)>
+  <!ELEMENT exemple (#PCDATA)>
+  <!ELEMENT datacreació (#PCDATA)>
+  ]>
